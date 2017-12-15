@@ -1,0 +1,22 @@
+{
+  "name": "alexa-container-schedule",
+  "version": "1.0.0",
+  "description": "Reminder for klikos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferryvanmaurik/alexa-container-schedule.git"
+  },
+  "author": "Ferry van Maurik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferryvanmaurik/alexa-container-schedule/issues"
+  },
+  "homepage": "https://github.com/ferryvanmaurik/alexa-container-schedule#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.24"
+  }
+}

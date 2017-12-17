@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ferryvanmaurik/alexa-container-schedule#readme",
   "dependencies": {
+    "alexa-reminders": "^1.0.1",
     "alexa-sdk": "^1.0.24"
   }
 }

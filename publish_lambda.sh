@@ -3,4 +3,4 @@ cd lambda
 npm install
 zip -r ../lambda.zip *
 cd ..
-aws lambda update-function-code --function-name container-schedule --zip-file fileb://lambda.zip
+aws lambda update-function-code --function-name alexa-container-schedule --zip-file fileb://lambda.zip

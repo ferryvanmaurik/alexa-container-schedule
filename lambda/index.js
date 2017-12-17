@@ -27,11 +27,11 @@ var handlers = {
         this.emit(':ask', 'Hi Ferry, what would you like to know about the containers?', 'Try asking if today a container needs to go outside')
     },
 
-    'ContainerSchedule': function (color) {
-        if (day)
-        this.emit(':tell', `Today the ${color} needs to go outside`)
+    'ContainerSchedule': function () {
+        if (color)
+        this.emit(':tell', `Tonight the ${color} container needs to go outside because tomorrow morning it will be emptied`)
         else {
-            this.emit(':tell', 'No, today not')
+            this.emit(':tell', 'No, not today')
         }
     }
 }

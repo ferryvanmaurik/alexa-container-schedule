@@ -1,13 +1,53 @@
 [{
     "day": 349,
-    "containerType": "Gray"
+    "containerType": false
 },{
     "day": 350,
-    "containerType": "Green"
+    "containerType": false
 },{
     "day": 351,
-    "containerType": "Blue"
+    "containerType": false
 },{
     "day": 352,
     "containerType": false
-}]
+},{
+    "day": 353,
+    "containerType": "Blue"
+},{
+    "day": 354,
+    "containerType": false
+},{
+    "day": 355,
+    "containerType": false
+},{
+    "day": 356,
+    "containerType": false
+},{
+    "day": 357,
+    "containerType": false
+},{
+    "day": 358,
+    "containerType": false
+},{
+    "day": 359,
+    "containerType": false
+},{
+    "day": 360,
+    "containerType": false
+},{
+    "day": 361,
+    "containerType": "Green"
+},{
+    "day": 362,
+    "containerType": false
+},{
+    "day": 363,
+    "containerType": "Orange"
+},{
+    "day": 364,
+    "containerType": false
+},{
+    "day": 365,
+    "containerType": false
+}
+]
